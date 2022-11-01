@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="SnapshotGroup" id="{ea4f0c06-102f-40aa-8315-fc724409cfa7}">
+		<property name="name">
+			<value>Newt</value>
+		</property>
+		<relationship name="folder">
+			<destination>{22ba3ad7-8387-4c6c-8646-92ea2d049aaf}</destination>
+		</relationship>
+		<relationship name="items">
+			<destination>{3732187a-c4c4-4b5b-9f05-ec0d57a4fe5b}</destination>
+			<destination>{a116f183-eb62-474f-b990-2a801fc83f55}</destination>
+			<destination>{920c244f-a421-40b8-951c-fcf999167cd3}</destination>
+			<destination>{4d811d2c-a185-4735-9d9d-4e30452908eb}</destination>
+			<destination>{36b392c4-6269-4373-822f-c1dcda67c91f}</destination>
+			<destination>{b3fc6e79-e928-42e7-bd7a-472e53d3be00}</destination>
+			<destination>{dbf5605d-78a8-4834-bfc7-15ddd7c0ade1}</destination>
+			<destination>{c5c589b6-d22b-4b87-92f2-4fe3693b66e3}</destination>
+			<destination>{64586e9b-fa34-4a8e-97d3-b233d2f89ecc}</destination>
+			<destination>{e8d699eb-d41c-4bce-b54d-0cfa1e3394e2}</destination>
+			<destination>{730a1548-6c5b-4519-afc5-4b01d83a701e}</destination>
+			<destination>{e1e4c90d-0544-40eb-982a-d6ec69e6107d}</destination>
+			<destination>{28da0b53-0dea-4637-a717-3e055b3ebafa}</destination>
+			<destination>{f1847097-1acb-46fb-94b2-8d90c2ad411f}</destination>
+			<destination>{0b249ce4-cbb5-4cc6-b211-8ec1eed81763}</destination>
+			<destination>{7fdb33b7-6114-407b-9a42-55357ed658e4}</destination>
+			<destination>{c0d9325a-7553-46a3-a84d-ef56097fd85b}</destination>
+		</relationship>
+	</object>
+</objects>

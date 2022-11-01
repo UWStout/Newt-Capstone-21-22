@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{5b6c97db-4b52-4f2c-bad9-c3bf0438f9c3}">
+		<property name="name">
+			<value>surface_index_elena</value>
+		</property>
+		<relationship name="folder">
+			<destination>{93dd4f62-9f96-4c0d-825d-c52742e28e9f}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{08d86792-4a57-447a-95b3-7486753acaa8}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{08d86792-4a57-447a-95b3-7486753acaa8}">
+		<property name="maximum">
+			<value>20</value>
+		</property>
+		<property name="isGlobal">
+			<value>true</value>
+		</property>
+		<property name="initialValue">
+			<value>1</value>
+		</property>
+		<property name="isExposedRecursively">
+			<value>false</value>
+		</property>
+	</object>
+</objects>

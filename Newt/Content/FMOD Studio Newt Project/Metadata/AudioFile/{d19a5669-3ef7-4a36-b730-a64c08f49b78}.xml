@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{d19a5669-3ef7-4a36-b730-a64c08f49b78}">
+		<property name="assetPath">
+			<value>environment/ambience/sfx_env_ambience_cave_water_drops-02.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.57045833333333329</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{6112a0cc-3074-4b0c-8f4c-4e113b1f6602}</destination>
+		</relationship>
+	</object>
+</objects>

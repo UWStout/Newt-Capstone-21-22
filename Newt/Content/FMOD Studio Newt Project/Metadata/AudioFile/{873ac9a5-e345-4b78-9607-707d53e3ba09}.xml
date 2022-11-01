@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{873ac9a5-e345-4b78-9607-707d53e3ba09}">
+		<property name="assetPath">
+			<value>characters/Elena/footsteps/sfx_char_elena_footstep_grass_01.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.5357142857142857</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{6112a0cc-3074-4b0c-8f4c-4e113b1f6602}</destination>
+		</relationship>
+	</object>
+</objects>

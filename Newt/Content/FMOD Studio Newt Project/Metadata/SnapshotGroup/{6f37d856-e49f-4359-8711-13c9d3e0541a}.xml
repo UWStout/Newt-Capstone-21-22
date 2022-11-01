@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="SnapshotGroup" id="{6f37d856-e49f-4359-8711-13c9d3e0541a}">
+		<property name="name">
+			<value>Elena</value>
+		</property>
+		<relationship name="folder">
+			<destination>{22ba3ad7-8387-4c6c-8646-92ea2d049aaf}</destination>
+		</relationship>
+		<relationship name="items">
+			<destination>{9beabdf9-495a-4c53-ad89-de2760665860}</destination>
+			<destination>{1226801b-ae73-47ce-bb0d-e413ffc1f870}</destination>
+			<destination>{67e7a5ff-ff7e-4532-a0e1-124c5807beb3}</destination>
+			<destination>{54eaa4a4-fa97-4162-9eb0-ee61ff8e2057}</destination>
+			<destination>{8d25db09-64e1-4062-ae98-ccc64b232d0a}</destination>
+			<destination>{f1a7d571-d59a-4069-8c39-0f2bf0bd192a}</destination>
+			<destination>{18b35acd-24bc-4406-8de2-726c9984bdeb}</destination>
+			<destination>{8d379f7e-fc75-4218-ace2-038f9c004b22}</destination>
+			<destination>{2164a059-f8c5-49dd-81a7-f03abce77e7c}</destination>
+			<destination>{6626cc58-0677-47b0-b88f-259bfed8da7f}</destination>
+			<destination>{f0433bee-db61-412d-96e4-140c38ffc898}</destination>
+			<destination>{e693fb49-226c-41d7-a839-b27dd97f5c46}</destination>
+			<destination>{cbbace3a-9f4d-45c1-9194-e229dbcc0f64}</destination>
+			<destination>{8ddb4cfb-1999-4419-8cff-bc3cf9339f96}</destination>
+			<destination>{d7a92fcd-7a54-466b-a5dd-e4d464aaee8d}</destination>
+			<destination>{08b10b36-df4d-4946-a4c8-308c8173796f}</destination>
+			<destination>{a234c848-76f7-4488-a0b2-86af8838a17c}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{dd86e685-c3d9-4e90-af42-29cc7adc7867}">
+		<property name="assetPath">
+			<value>characters/Elena/land/sfx_char_elena_denim_against_backpack_land_05.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.6868333333333333</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{6112a0cc-3074-4b0c-8f4c-4e113b1f6602}</destination>
+		</relationship>
+	</object>
+</objects>

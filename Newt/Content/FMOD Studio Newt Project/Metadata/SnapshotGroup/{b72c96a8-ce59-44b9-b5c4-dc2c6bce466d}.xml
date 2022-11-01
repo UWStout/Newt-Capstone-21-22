@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="SnapshotGroup" id="{b72c96a8-ce59-44b9-b5c4-dc2c6bce466d}">
+		<property name="name">
+			<value>General</value>
+		</property>
+		<relationship name="folder">
+			<destination>{22ba3ad7-8387-4c6c-8646-92ea2d049aaf}</destination>
+		</relationship>
+		<relationship name="items">
+			<destination>{09513ced-35d0-45fd-999d-8a468fdc776f}</destination>
+			<destination>{3386968f-1bd7-439f-a725-179990e02279}</destination>
+		</relationship>
+	</object>
+</objects>

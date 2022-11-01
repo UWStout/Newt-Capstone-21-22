@@ -1,0 +1,26 @@
+{
+  "key": "newt",
+  "courseID": "Tetzlaff / Newt Dev",
+  "title": "Netw!",
+  "engine": "Unreal",
+  "engineVersion": "4.26.2",
+  "buildPlatforms": ["win64", "macOS"],
+  "descriptionMarkdownURI": "websiteData/description.md",
+  "pageExtras": [
+    { "key": "instructions", "title": "How to Play", "markdownURI": "websiteData/instructions.md" },
+    { "key": "requirements", "title": "Hardware Requirements", "markdownURI": "websiteData/requirements.md" }
+  ],
+  "socialLinks": [
+    { "title": "Web Site", "href": "" },
+    { "title": "Facebook", "href": "" },
+    { "title": "Twitter", "href": "" },
+    { "title": "Instagram", "href": "" },
+    { "title": "Snapchat", "href": "" }
+  ],
+  "repo": {
+    "type": "svn",
+    "viewURI": "https://revision.mscs.uwstout.edu/svn/newt450/",
+    "cloneURI": "svn://10.26.0.27/svn/newt450/trunk",
+    "evolutionVideo": ""
+  }
+}

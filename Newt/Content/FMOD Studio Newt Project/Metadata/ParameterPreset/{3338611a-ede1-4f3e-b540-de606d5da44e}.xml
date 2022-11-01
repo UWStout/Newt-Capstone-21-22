@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{3338611a-ede1-4f3e-b540-de606d5da44e}">
+		<property name="name">
+			<value>surface_index_statue</value>
+		</property>
+		<relationship name="folder">
+			<destination>{93dd4f62-9f96-4c0d-825d-c52742e28e9f}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{98cb0702-df77-4d1c-ac62-7dcde9e6ab8c}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{98cb0702-df77-4d1c-ac62-7dcde9e6ab8c}">
+		<property name="maximum">
+			<value>20</value>
+		</property>
+		<property name="isGlobal">
+			<value>true</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="isExposedRecursively">
+			<value>false</value>
+		</property>
+	</object>
+</objects>

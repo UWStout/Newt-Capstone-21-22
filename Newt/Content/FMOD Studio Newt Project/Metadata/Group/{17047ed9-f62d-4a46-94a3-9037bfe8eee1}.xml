@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="MixerGroup" id="{17047ed9-f62d-4a46-94a3-9037bfe8eee1}">
+		<property name="name">
+			<value>Newt</value>
+		</property>
+		<relationship name="effectChain">
+			<destination>{b01829eb-c00f-4de6-85cf-e4474df19b01}</destination>
+		</relationship>
+		<relationship name="panner">
+			<destination>{7a6f4774-5262-4df9-943f-670ea736de73}</destination>
+		</relationship>
+		<relationship name="output">
+			<destination>{cd6875c1-c49e-4438-b89f-ca6652a68c34}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusEffectChain" id="{b01829eb-c00f-4de6-85cf-e4474df19b01}">
+		<relationship name="effects">
+			<destination>{efc88d37-83d3-4b66-865b-d08dca83f6a8}</destination>
+			<destination>{97b7af41-6310-43ca-8ff7-5aef0dd46ba7}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusPanner" id="{7a6f4774-5262-4df9-943f-670ea736de73}" />
+	<object class="MixerBusFader" id="{efc88d37-83d3-4b66-865b-d08dca83f6a8}" />
+	<object class="MixerSend" id="{97b7af41-6310-43ca-8ff7-5aef0dd46ba7}">
+		<property name="inputFormat">
+			<value>2</value>
+		</property>
+		<relationship name="mixerReturn">
+			<destination>{a9d6b108-4e05-4e42-a25d-ad5f79393f5b}</destination>
+		</relationship>
+	</object>
+</objects>
